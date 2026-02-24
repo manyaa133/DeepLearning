@@ -14,7 +14,7 @@ DeepLearning_Project/
 - mnist_train.csv
 - README.md
 
----
+
 
 ## Requirements
 
@@ -26,7 +26,7 @@ Install required libraries:
 
 pip install numpy matplotlib
 
----
+
 
 ## How to Run
 
@@ -36,7 +36,7 @@ pip install numpy matplotlib
 
 python train_autoencoder.py
 
----
+
 
 ## What the Program Does
 
@@ -49,7 +49,7 @@ python train_autoencoder.py
 - Performs outlier detection using reconstruction error
 - Plots reconstruction error distribution
 
----
+
 
 ## Model Architecture
 
@@ -63,7 +63,7 @@ python train_autoencoder.py
   - Mean Squared Error (MSE)
   - L1 sparsity penalty on latent representation
 
----
+
 
 ## Output
 
@@ -72,8 +72,9 @@ python train_autoencoder.py
 - Reconstruction error histogram
 - Number of detected outliers
 
+
 ---
-
 Author: Manya
-
+---
 Course: Deep Learning
+---
