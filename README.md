@@ -4,7 +4,7 @@
 This project implements a fully connected Autoencoder from scratch using NumPy.  
 The model is trained on the MNIST dataset to reconstruct handwritten digit images and perform basic outlier detection using reconstruction error.
 
----
+
 
 ## Project Files
 
@@ -75,4 +75,5 @@ python train_autoencoder.py
 ---
 
 Author: Manya
+
 Course: Deep Learning
